@@ -15,8 +15,8 @@ SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 # Bot Configuration
 SESSION = "akd"
 TOKEN = "8808714983:AAHvM8V4JC55Kryqzo2DyKLNg1fwAp_VX6o"
-API_ID = ""
-API_HASH = ""
+API_ID = "30322849"
+API_HASH = "2a8d13c1d6ce82476411f003b6922e47"
 WORKERS = 5
 
 DB_URI = "mongodb+srv://akdanimes_97:akdanimes_97@cluster0.5e3ojhb.mongodb.net/?appName=Cluster0"
