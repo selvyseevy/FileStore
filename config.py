@@ -13,7 +13,7 @@ SHORT_API = "1aa503f506e7bc8832c2c9eba534bb98c55ab6fe"
 SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
-SESSION = "AKD"
+SESSION = "akd"
 TOKEN = "8808714983:AAHvM8V4JC55Kryqzo2DyKLNg1fwAp_VX6o"
 API_ID = ""
 API_HASH = ""
